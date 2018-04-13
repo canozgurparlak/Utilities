@@ -1,0 +1,4 @@
+Blattlänge-(m)
+V-tip-(m/s)
+Mech.-Leistung-(kW)
+Windgeschwindigkeit-(m/s)
